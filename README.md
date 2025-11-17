@@ -18,7 +18,6 @@
     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
     <img src="https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff"/>
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"/>
-    [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)
   </p>
 
 
