@@ -34,7 +34,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________
 
 
-About me:
+About me: <br/>
 & Focussed on general project devolopment, preferably doing all: design, coding, ads, publishment. <br/>
 & Learning much as I can.<br/>
 & Experince in developing chat and help AI's and bots.
