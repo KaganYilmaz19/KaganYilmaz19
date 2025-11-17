@@ -1,3 +1,4 @@
+<div style="display:flex; align-items:center; justify-content:center;">
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
@@ -19,6 +20,6 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
 </div>
-
+</div>
 
 
