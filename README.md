@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io-badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
