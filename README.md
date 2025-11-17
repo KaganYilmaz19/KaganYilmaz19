@@ -1,4 +1,4 @@
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));justify-content:center;align-items:center;gap:8px;padding:12px 0;">
+<div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:8px;padding:12px 0;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white"/>
