@@ -1,3 +1,14 @@
+<h1 align="center" style="margin-bottom:-1;">
+  Hello, I'm Kağan
+</h1>
+<p align="center" style="margin-top:0; font-size:1em;">
+  Web Developer | Adobe Designer | Android Software Developer | Desktop Software Developer
+</p>
+
+____________________________________________________________________________________________
+
+<p align="center">
+  
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white"/>
@@ -20,4 +31,11 @@
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"/>
   </p>
 
+____________________________________________________________________________________________
+
+
+About me:
+& Focussed on general project devolopment, preferably doing all: design, coding, ads, publishment.
+& Learning much as I can.
+& Experince in developing chat and help AI's and bots.
 
