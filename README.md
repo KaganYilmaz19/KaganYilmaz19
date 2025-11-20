@@ -2,7 +2,7 @@
   Hello, I'm Kağan
 </h1>
 <p align="center" style="margin-top:0; font-size:1em;">
-  Web Developer | Adobe Designer | Software Developer
+  Web Developer | Software Developer
 </p>
 
 ____________________________________________________________________________________________
